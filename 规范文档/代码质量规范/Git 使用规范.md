@@ -1,1 +1,1 @@
-![avatar](http://baidu.com/pic/doge.png)
+![](https://raw.githubusercontent.com/fearlessstudio/history/master/%E8%A7%84%E8%8C%83%E6%96%87%E6%A1%A3/%E5%9B%BE%E7%89%87/GitFlow%E6%B5%81%E7%A8%8B.png)
